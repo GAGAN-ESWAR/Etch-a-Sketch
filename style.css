@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+    height: 100vh;
+}
+
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 640px;
+    height: 640px;
+    border: 2px solid black;
+}
+
+.grid-square{
+    box-sizing: border-box;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(135, 40, 40);
+    background-color: azure;
+}
