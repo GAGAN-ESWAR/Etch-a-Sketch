@@ -1,6 +1,7 @@
 let container = document.querySelector("#container");
 
 for(let i=0;i<16*16;i++){
-    let div = document.createElement("div");
-    container.appendChild(div);
+    let square = document.createElement("div");
+    square.classList.add("grid-square");
+    container.appendChild(square);
 }
