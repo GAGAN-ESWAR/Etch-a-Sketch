@@ -1,5 +1,6 @@
 body {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     background-color: blanchedalmond;
@@ -20,4 +21,11 @@ body {
     height: 40px;
     border: 1px solid rgb(135, 40, 40);
     background-color: azure;
+}
+
+#btn {
+    margin: 20px;
+    font-weight: 700;
+    padding: 10px;
+    font-size: larger;
 }
