@@ -17,7 +17,7 @@ An interactive Etch-a-Sketch-style drawing tool built using HTML, CSS, and JavaS
 
 HTML
 
-CSS (with Flexbox & CSS Grid)
+CSS (with Flexbox)
 
 Vanilla JavaScript (DOM Manipulation & Events)
 
